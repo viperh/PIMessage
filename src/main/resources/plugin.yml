@@ -1,0 +1,4 @@
+name: PIMessage
+version: '1.0-SNAPSHOT'
+main: org.me.qviperh.pIMessage.PIMessage
+api-version: '1.21'
